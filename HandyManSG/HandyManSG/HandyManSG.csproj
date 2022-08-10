@@ -81,6 +81,7 @@
     <Content Include="business-home.css" />
     <Content Include="business-signup.aspx" />
     <Content Include="business-signup.css" />
+    <Content Include="business-view-all-services.aspx" />
     <Content Include="customer-booking-page-css.css" />
     <Content Include="customer-booking-page.aspx" />
     <Content Include="customer-edit-new-booking.aspx" />
@@ -152,6 +153,13 @@
     </Compile>
     <Compile Include="business-signup.aspx.designer.cs">
       <DependentUpon>business-signup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="business-view-all-services.aspx.cs">
+      <DependentUpon>business-view-all-services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="business-view-all-services.aspx.designer.cs">
+      <DependentUpon>business-view-all-services.aspx</DependentUpon>
     </Compile>
     <Compile Include="customer-booking-page.aspx.cs">
       <DependentUpon>customer-booking-page.aspx</DependentUpon>
