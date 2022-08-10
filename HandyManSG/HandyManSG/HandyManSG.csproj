@@ -70,6 +70,7 @@
     <Content Include="customer-home-page-css.css" />
     <Content Include="customer-home-page.aspx" />
     <Content Include="customer-signup.aspx" />
+    <Content Include="customer-signup.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
