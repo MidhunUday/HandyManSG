@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="business-home.aspx" />
+    <Content Include="business-home.css" />
     <Content Include="business-signup.aspx" />
     <Content Include="business-signup.css" />
     <Content Include="customer-booking-page-css.css" />
