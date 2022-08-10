@@ -72,6 +72,7 @@
     <Content Include="business-edit-new-booking.aspx" />
     <Content Include="business-edit-new-booking.css" />
     <Content Include="business-edit-profile.aspx" />
+    <Content Include="business-edit-profile.css" />
     <Content Include="business-home.aspx" />
     <Content Include="business-home.css" />
     <Content Include="business-signup.aspx" />
