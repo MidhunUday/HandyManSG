@@ -83,6 +83,7 @@
     <Content Include="customer-view-completed-bookings.css" />
     <Content Include="customer-view-new-bookings.aspx" />
     <Content Include="customer-view-new-bookings.css" />
+    <Content Include="customer-view-services-css.css" />
     <Content Include="customer-view-services.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
