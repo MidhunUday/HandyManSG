@@ -76,6 +76,7 @@
     <Content Include="business-edit-services.aspx" />
     <Content Include="business-edit-services.css" />
     <Content Include="business-edit-upcoming-booking.aspx" />
+    <Content Include="business-edit-upcoming-booking.css" />
     <Content Include="business-home.aspx" />
     <Content Include="business-home.css" />
     <Content Include="business-signup.aspx" />
