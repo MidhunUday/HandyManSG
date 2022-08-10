@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="customer-home-page-css.css" />
     <Content Include="customer-home-page.aspx" />
+    <Content Include="customer-signup.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -78,6 +79,13 @@
     </Compile>
     <Compile Include="customer-home-page.aspx.designer.cs">
       <DependentUpon>customer-home-page.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="customer-signup.aspx.cs">
+      <DependentUpon>customer-signup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="customer-signup.aspx.designer.cs">
+      <DependentUpon>customer-signup.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
