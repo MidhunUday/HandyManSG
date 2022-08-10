@@ -74,6 +74,7 @@
     <Content Include="business-edit-profile.aspx" />
     <Content Include="business-edit-profile.css" />
     <Content Include="business-edit-services.aspx" />
+    <Content Include="business-edit-services.css" />
     <Content Include="business-home.aspx" />
     <Content Include="business-home.css" />
     <Content Include="business-signup.aspx" />
