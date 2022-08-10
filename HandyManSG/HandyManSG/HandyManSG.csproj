@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="customer-edit-profile.aspx" />
+    <Content Include="customer-edit-profile.css" />
     <Content Include="customer-home-page-css.css" />
     <Content Include="customer-home-page.aspx" />
     <Content Include="customer-signup.aspx" />
