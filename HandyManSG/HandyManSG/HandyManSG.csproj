@@ -70,6 +70,7 @@
     <Content Include="customer-booking-page-css.css" />
     <Content Include="customer-booking-page.aspx" />
     <Content Include="customer-edit-new-booking.aspx" />
+    <Content Include="customer-edit-new-booking.css" />
     <Content Include="customer-edit-profile.aspx" />
     <Content Include="customer-edit-profile.css" />
     <Content Include="customer-home-page-css.css" />
