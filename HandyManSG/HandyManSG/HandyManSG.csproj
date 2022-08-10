@@ -88,6 +88,7 @@
     <Content Include="business-view-new-bookings.aspx" />
     <Content Include="business-view-new-bookings.css" />
     <Content Include="business-view-upcoming-bookings.aspx" />
+    <Content Include="business-view-upcoming-bookings.css" />
     <Content Include="customer-booking-page-css.css" />
     <Content Include="customer-booking-page.aspx" />
     <Content Include="customer-edit-new-booking.aspx" />
