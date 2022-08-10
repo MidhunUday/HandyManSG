@@ -70,6 +70,7 @@
     <Content Include="business-add-new-service.aspx" />
     <Content Include="business-add-new-service.css" />
     <Content Include="business-edit-new-booking.aspx" />
+    <Content Include="business-edit-new-booking.css" />
     <Content Include="business-home.aspx" />
     <Content Include="business-home.css" />
     <Content Include="business-signup.aspx" />
