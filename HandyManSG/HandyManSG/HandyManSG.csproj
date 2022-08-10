@@ -84,6 +84,7 @@
     <Content Include="business-view-all-services.aspx" />
     <Content Include="business-view-all-services.css" />
     <Content Include="business-view-completed-bookings.aspx" />
+    <Content Include="business-view-completed-bookings.css" />
     <Content Include="customer-booking-page-css.css" />
     <Content Include="customer-booking-page.aspx" />
     <Content Include="customer-edit-new-booking.aspx" />
