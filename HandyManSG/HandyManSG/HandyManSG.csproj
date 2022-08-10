@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="customer-booking-page.aspx" />
     <Content Include="customer-edit-profile.aspx" />
     <Content Include="customer-edit-profile.css" />
     <Content Include="customer-home-page-css.css" />
@@ -76,6 +77,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="customer-booking-page.aspx.cs">
+      <DependentUpon>customer-booking-page.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="customer-booking-page.aspx.designer.cs">
+      <DependentUpon>customer-booking-page.aspx</DependentUpon>
+    </Compile>
     <Compile Include="customer-edit-profile.aspx.cs">
       <DependentUpon>customer-edit-profile.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
