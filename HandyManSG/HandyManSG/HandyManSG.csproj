@@ -79,6 +79,7 @@
     <Content Include="customer-signup.css" />
     <Content Include="customer-view-approved-bookings.aspx" />
     <Content Include="customer-view-approved-bookings.css" />
+    <Content Include="customer-view-completed-bookings.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -123,6 +124,13 @@
     </Compile>
     <Compile Include="customer-view-approved-bookings.aspx.designer.cs">
       <DependentUpon>customer-view-approved-bookings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="customer-view-completed-bookings.aspx.cs">
+      <DependentUpon>customer-view-completed-bookings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="customer-view-completed-bookings.aspx.designer.cs">
+      <DependentUpon>customer-view-completed-bookings.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
