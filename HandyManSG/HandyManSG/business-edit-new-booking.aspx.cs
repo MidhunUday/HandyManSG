@@ -61,7 +61,7 @@ namespace HandyManSG
                 "Booking.[bookingUpdationDateTime] as Booking_Creation_Time , cusProfile.[customerName] ,cusProfile.[contactEmail] ," +
                 "cusProfile.[contactPhoneNumber] ,cusProfile.[customerAddress] FROM[RepairAppDB].[customer].[CustomerBookingInfo] Booking," +
                 " [RepairAppDB].[customer].[CustomerProfileInfo] cusProfile where [serviceID] in (Select ServiceID from [RepairAppDB].[Business].[BusinessServiceInfo] " +
-                "where Booking.[BookingID]= '" + Session["BookingID"].ToString() + "' )";
+                "where Booking.[BookingID]= '" + Session["BookingID"].ToString() + "' ) and cusProfile.[userID]=Booking.[customerUserID]";
 
             //get the service details into db dbServiceDetail
             DataTable dbServiceDetail = getData(queryGetNewBookingInfo);
